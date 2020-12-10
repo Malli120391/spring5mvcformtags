@@ -1,0 +1,4 @@
+com\javacodes\springmvc\config\SpringMvcDispatcherServletInitializer.class
+com\javacodes\springmvc\config\MVCConfig.class
+com\javacodes\springmvc\config\model\User.class
+com\javacodes\springmvc\config\controller\UserController.class
